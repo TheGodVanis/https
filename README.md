@@ -7,7 +7,7 @@
 
 ------------
 
-### Nasıl Kullanılır? - How To Use?
+### Skids ? - How To Use?
 >python3 vanis.py
 
 its simple 
