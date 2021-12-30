@@ -1,4 +1,4 @@
-![](https://images-ext-1.discordapp.net/external/2kEI4DeHdhPIqT1xDZYGWlVki6xa9t5MDYDZZlfd_xc/https/media.discordapp.net/attachments/905811847784042567/924119852145336320/giphy_14.gif)
+![](https://images-ext-1.discordapp.net/external/aXJOqZvFvFh7bq-xGYVzpjyA-_OuhClVcAplxwsWDUQ/https/media.discordapp.net/attachments/824008155977089045/898958326967201832/thunder-red_1.gif)
 
 ### Gereksinimler - Requirements
 **Linux OS**
