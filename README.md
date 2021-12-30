@@ -1,4 +1,4 @@
-![](https://media-dominaria.cursecdn.com/avatars/thumbnails/133/367/320/160/636399538505025043.png)
+![](https://images-ext-1.discordapp.net/external/2kEI4DeHdhPIqT1xDZYGWlVki6xa9t5MDYDZZlfd_xc/https/media.discordapp.net/attachments/905811847784042567/924119852145336320/giphy_14.gif)
 
 ### Gereksinimler - Requirements
 **Linux OS**
@@ -8,12 +8,8 @@
 ------------
 
 ### Nasıl Kullanılır? - How To Use?
->python3 UNSTABLE.py
+>python3 vanis.py
 
-Video: https://www.youtube.com/watch?v=2hib9WjpJo8
+its simple 
 
-
-Bu araç sadece eğitim amaçlı kodlanmış olup, doğabilecek zararlardan tamamen kullanıcı sorumludur.
-
-
-Contact: iletisim@UN5T48L3.com
+Contact: 1800#0001
