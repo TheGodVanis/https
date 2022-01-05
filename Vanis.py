@@ -102,16 +102,16 @@ def floodmode():
 	elif choice1 == "1":
 		try:
 			if os.getuid() != 0: # C0d3d by V@N1S
-				print("You need to run this program as root to use TCP/UDP flooding.") # C0d3d by UN5T48L3
+				print("You need to run this program as root to use TCP/UDP flooding.") # C0d3d by V@N1S
 				exit(0) # C0d3d by V@N1S
-			else: # C0d3d by UN5T48L3
+			else: # C0d3d by V@N1S
 				floodport() # C0d3d by V@N1S
 		except:
 			pass
 	elif choice1 == "2":
 		try:
 			if os.getuid() != 0: # C0d3d by V@N1S
-				print("You need to run this program as root to use TCP/UDP flooding.") # C0d3d by UN5T48L3
+				print("You need to run this program as root to use TCP/UDP flooding.") # C0d3d by V@N1S
 				exit(0) # C0d3d by V@N1S
 			else: # 
 				floodport() # C0d3d by V@N1S
@@ -193,7 +193,7 @@ def choicemirror2():
 		print("You mistyped, try again.")
 		choicemirror2()
 
-def proxyget1(): # C0d3d by UN5T48L3
+def proxyget1(): # C0d3d by V@N1S
 	try:
 		req = urllib.request.Request(("%s") % (urlproxy))       
 		req.add_header("User-Agent", random.choice(useragents)) 
